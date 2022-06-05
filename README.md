@@ -7,15 +7,18 @@ Sou graduado em Engenharia da Computação e mestrado em Informática com ênfas
 Atualmente sou Quality Assurance  Specialist.
 
 
-• Languages and Tools: Java, JUnit, Maven;
-• Testing Tools: Postman and Graylog;
-• Report and CI: Jenkins and Allure Reports;
-• Data manipulation: PostgreSQL and MongoDB;
-• Project Manager and Incident Control: Service Now;
-• Code Versioning: Git and Gitlab.
-• Others: Testing consumption and messaging of microservices with Kafka
- Selenium Webdriver with JUnit with Page Objects/Factory (Patterns) for web automation
-Agile methodology  
+- Languages and Tools: Java, JUnit, Maven;
+- Testing Tools: Postman and Graylog;
+- Report and CI: Jenkins and Allure Reports;
+- Data manipulation: PostgreSQL and MongoDB;
+- Project Manager and Incident Control: Service Now;
+- Code Versioning: Git and Gitlab.
+- Others: Testing consumption and messaging of microservices with Kafka
+- Selenium Webdriver with JUnit with Page Objects/Factory (Patterns) for web automation
+- Agile methodology  
+- Azure Devops
+- Cypress
+- Rest assured
 
 
 <div> 
