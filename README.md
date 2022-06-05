@@ -1,10 +1,21 @@
-### Olá! Sou Fernando, seja bem-vindo (a) ao meu github 👋
+### Olá! Sou Fernando, seja bem-vindo (a) ao meu github ![image](https://user-images.githubusercontent.com/11826920/172073951-0f590e3e-cde6-484b-a779-d76734471a0b.png)
+
 
 Entusiasta das melhores tecnologias de testes.
 
 Sou graduado em Engenharia da Computação e mestrado em Informática com ênfase em processamento de imagem e visão computacional pela UFPR.
 Atualmente sou Quality Assurance  Specialist.
 
+
+• Languages and Tools: Java, JUnit, Maven;
+• Testing Tools: Postman and Graylog;
+• Report and CI: Jenkins and Allure Reports;
+• Data manipulation: PostgreSQL and MongoDB;
+• Project Manager and Incident Control: Service Now;
+• Code Versioning: Git and Gitlab.
+• Others: Testing consumption and messaging of microservices with Kafka
+ Selenium Webdriver with JUnit with Page Objects/Factory (Patterns) for web automation
+Agile methodology  
 
 
 <div> 
