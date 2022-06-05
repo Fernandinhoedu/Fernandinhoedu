@@ -20,8 +20,10 @@ Atualmente sou Quality Assurance  Specialist.
 - Cypress
 - Rest assured
 
+<div align="center">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
 <div> 
   <a href = "mailto:fesilva.eduardo@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
