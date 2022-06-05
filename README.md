@@ -2,8 +2,8 @@
 
 Entusiasta das melhores tecnologias de testes.
 
-<!--
-**Fernandinhoedu/Fernandinhoedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou graduado em Engenharia da Computação e mestrado em Informática com ênfase em processamento de imagem e visão computacional pela UFPR.
+Atualmente sou Quality Assurance  Specialist.
 
 Here are some ideas to get you started:
 
