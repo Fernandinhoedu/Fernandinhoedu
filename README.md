@@ -1,5 +1,7 @@
 ### Olá! Sou Fernando, seja bem-vindo (a) ao meu github 👋
 
+Entusiasta das melhores tecnologias de testes.
+
 <!--
 **Fernandinhoedu/Fernandinhoedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
